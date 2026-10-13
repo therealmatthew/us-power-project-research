@@ -10,7 +10,7 @@ Available libraries: pypdf 6.20.0, pypdfium2 5.14.0, Pillow 12.3.0.
 - Both script CLI help commands run. A synthetic PDF CLI extraction/search smoke check produces page records and unreviewed candidates.
 - pypdfium2 rendering of the synthetic fixture works; this is rendering verification, not OCR accuracy validation.
 - Curated JSON nulls and evidence/source joins pass integrity checks.
-- Local Git initialization and ignored originals/work paths verified; no remote configured and no push performed.
+- At initial creation, local Git initialization and ignored originals/work paths were verified; no remote was configured and no push was performed. GitHub publication was subsequently authorized and the remote configured.
 
 ## Blocked or unverified
 

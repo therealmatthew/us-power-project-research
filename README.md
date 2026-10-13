@@ -41,6 +41,6 @@ Candidate exports must be CSVs inside `work/`; regexes deliberately include neig
 
 See the report and manifest for source-specific access limits. An agenda does not prove a final vote; a planned purchaser does not prove a PPA; a permit extension does not prove operation. The August 12, 2026 reported extension end is historical as of this review. Current status, final BESS, COD, capacity credit and Digital Realty membership are unknown.
 
-## Local-only delivery
+## Delivery
 
-Git is initialized locally. No remote, push or publication is performed. Originals and working output are ignored. See `CHECKS.md` for executed checks and limitations.
+Git was initialized locally, then GitHub publication was explicitly authorized. The repository remote is `https://github.com/therealmatthew/us-power-project-research.git`. Originals and working output remain ignored. See `CHECKS.md` for executed checks and evidence limitations.
