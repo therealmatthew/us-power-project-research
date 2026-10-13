@@ -1,48 +1,77 @@
-# Crete Cottage Grove Solar 1: evidence-led project research
+# Crete Cottage Grove Solar 1
 
-Prepared for Matthew Z. Marte's Cleanview Research Analyst application. Research review: October 13, 2026 (Asia/Manila). This is an independent work sample, not a Cleanview publication.
+**Matthew Z. Marte | Research work sample for Cleanview | October 13, 2026**
 
-## Finding
+## Research objective and project selection
 
-The record identifies a proposed 3.42 MW solar project in Will County, Illinois, with a separate BESS request. The AC/DC capacity basis is unspecified. A February 2026 committee summary reports a second permit extension through August 12, 2026. That date precedes this review: neither ongoing permit validity nor current operation can be established from the available evidence. Current ownership, COD, final storage design, capacity credit and Digital Realty membership remain null.
+I examined this project to determine which records refer to the same proposed facility, what they show about its development, and which milestones still need confirmation. I selected Crete Cottage Grove Solar 1 because the parcel number, zoning case, company name and ComEd project number allow the proposal to be followed across local permitting and utility filings.
 
-## Identity and permitting
+I began with Digital Realty's announcement of a Soltage community solar portfolio, then investigated individual projects. I did not establish that Cottage Grove was included in that agreement.
 
-[S1: official Crete agenda](https://villageofcrete.org/wp-content/uploads/2023/06/06-26-2023-agenda.pdf), physical PDF page 2, connects PIN 23-15-15-400-010-0000 with the northwest corner of W. Munz Road and S. Cottage Grove Avenue. It lists requested solar use and a five-acre battery storage use, with a July 18, 2023 hearing scheduled. This confirms a notice and requests, not a hearing outcome or construction authorization.
+## Project summary and findings
 
-The supplied [S2: reproduced August 17 agenda](https://willcountygazette.com/will-county-board-met-aug-17), Land Use item 2, identifies Crete Cottage Grove Solar 1, LLC., ZC-23-006, solar request S-23-003 and BESS request S-23-004. Direct web access returned 403. These details are retained as supplied facts with that limitation, not presented as independently retrieved records. A separate search result for an August 8 committee agenda corroborated identifiers, but is logged only as a lead. Neither agenda establishes the final vote.
-
-## Capacity and commercial relationships
-
-The supplied [S3: July 16, 2023 article](https://www.yahoo.com/news/solar-power-company-makes-application-101500799.html) by Alexandra Kukulka / Chicago Tribune reports proposed capacity of 3.42 MW, Soltage ownership and ComEd as planned electricity purchaser, and an expired 2018 permit. Direct web access returned 429; this repository does not claim a full article review. Ownership was reported at that historical date; current ownership remains unverified. The purchaser report establishes a plan, not an executed purchase agreement. The area in the BESS request cannot be converted into MW or MWh.
-
-## Interconnection and entity matching
-
-[S4: ICC docket 23-0622 filing](https://www.icc.illinois.gov/docket/P2023-0622/documents/354597/files/621101.pdf) is a party pleading with a redlined complaint attachment. The supplied access history said the full PDF was inaccessible. During this review, the web tool returned page-indexed text for a 26-page document dated August 26, 2024. A local original-file retrieval attempt timed out; no original bytes or hash were retained. The distinction between this index and original bytes is preserved in the manifest.
-
-Paragraph 29 (indexed physical PDF page 15, attachment printed page 9) associates this entity with 3.42 MW and ComEd ID 22-19568. Paragraph 31 on the same physical page describes a study-proposed move from 12 kV feeder F365 to 34 kV line L12735 and cites Exhibit B page 6. That citation is an internal exhibit reference, not physical page 6 of this PDF. The underlying study page was not independently reviewed. This is a pleading's account of a study, not evidence of an energized or as-built connection, an ICC finding, or a final interconnection agreement.
-
-Use the parcel, entity, zoning case and utility ID together to match records. A feeder match alone is insufficient: the indexed text also describes Crete Goodenow Solar 1 on L12735. Search results must remain candidates until a reviewer checks their page and context.
-
-## Most recent supplied milestone
-
-[S5: Peotone Local committee coverage](https://peotonelocal.com/2026/03/02/meeting-summary-and-briefs-will-county-land-use-development-committee-for-february-5-2026/), published March 2, 2026, describes the February 5 meeting. Its solar extension section reports a second 180-day special-use extension through August 12, 2026 for this entity and zoning case, allowing time for building permit issuance. Treat this as a secondary report of committee action. Signed decisions, official minutes and any later extensions have not been retrieved; no legal status is inferred from the stated end date alone.
-
-## Unknowns and next research actions
-
-| Unverified field | Record needed |
+| Item | Finding |
 | --- | --- |
-| Current operation and COD | Utility permission to operate, commissioning record, or authoritative operating inventory linked to this entity |
-| Current permit status and adopted 2023 decision | County signed ordinance, vote/minutes, permit file and subsequent extensions |
-| Current ownership | Current entity filings plus asset ownership evidence; distinguish landowner and project owner |
-| Final BESS configuration | Approved site plan and electrical/permit schedules with MW and MWh |
-| Executed purchase agreement | Executed agreement or explicit authoritative disclosure |
-| AC/DC basis and capacity credit | Technical rating schedule and relevant accredited capacity record |
-| Digital Realty portfolio membership | Explicit portfolio or procurement disclosure tying this project to Digital Realty |
-| Actual interconnection | ComEd executed agreement and final energization records for 22-19568 |
+| Project entity | Crete Cottage Grove Solar 1, LLC |
+| Location | NW corner of W. Munz Road and S. Cottage Grove Avenue, Will County, Illinois |
+| Parcel | 23-15-15-400-010-0000 |
+| Zoning and use requests | ZC-23-006; S-23-003 for solar; S-23-004 for BESS |
+| Proposed solar capacity | 3.42 MW; AC/DC basis unspecified |
+| Storage request | Five acres requested for BESS; final MW, MWh and design unresolved |
+| Utility and regulatory identifiers | ComEd project 22-19568; ICC docket 23-0622 |
+| Latest permitting update located | February 2026 coverage reports a second 180-day extension through August 12, 2026 |
 
-No negative finding is implied by a null. This is a bounded review of five supplied sources plus one search lead, not an exhaustive search of operating inventories or commercial portfolios. No quotations are used. Findings are paraphrases with page/section locators; unavailable locators and document hashes remain empty rather than fabricated.
+The [June 26, 2023 Crete agenda (S1)](https://villageofcrete.org/wp-content/uploads/2023/06/06-26-2023-agenda.pdf), physical PDF page 2, identifies the parcel and road intersection in a hearing notice. It lists solar use for the site and a five-acre battery storage request. The reviewed agenda text establishes the proposed uses and scheduled hearing, not a permitting decision.
 
-## Reproducibility
+[Indexed ICC filing text (S4)](https://www.icc.illinois.gov/docket/P2023-0622/documents/354597/files/621101.pdf), paragraph 29, identifies Cottage Grove as a proposed 3.42 MW community solar system under ComEd project 22-19568. This supports the entity-to-utility match and proposed capacity. It does not establish installed capacity.
 
-See `data/evidence.csv` for claim-level traceability, `sources/manifest.csv` for access and custody, `timeline.csv` for dated events, and `search-log.csv` for source-access attempts and research leads. Review page/section locators against the cited source context before changing a claim. Physical PDF pages, printed page labels and exhibit references are distinct; unavailable document hashes remain empty.
+A [July 16, 2023 Chicago Tribune article, republished by Yahoo (S3)](https://www.yahoo.com/news/solar-power-company-makes-application-101500799.html) identifies the proposed capacity as 3.42 MW. It quotes Soltage's development director identifying Soltage as the owner and ComEd as the planned electricity purchaser. These statements describe the project at that time; they do not establish current ownership or an executed purchase agreement.
+
+[Peotone Local's committee report (S5)](https://peotonelocal.com/2026/03/02/meeting-summary-and-briefs-will-county-land-use-development-committee-for-february-5-2026/), published March 2, 2026, describes a second 180-day extension through August 12, 2026. This is the latest permitting update located; current permit and operating status remain unresolved.
+
+## Connecting the records
+
+I used the identifiers together rather than relying on a project name or feeder number alone.
+
+| Record | Identifiers and connection | Source passage |
+| --- | --- | --- |
+| Village hearing notice | Parcel 23-15-15-400-010-0000 and the Munz Road/Cottage Grove Avenue intersection identify the site and proposed solar/BESS uses | S1, PDF physical page 2 |
+| Reproduced county agenda | Crete Cottage Grove Solar 1, LLC, ZC-23-006, S-23-003 and S-23-004 connect the company and requests to the parcel | S2, Land Use item 2; agenda reference |
+| ICC filing excerpt | Cottage Grove's company name is paired with ComEd project 22-19568 and proposed capacity of 3.42 MW | S4, paragraph 29 |
+| Committee coverage | Cottage Grove's company name, ZC-23-006 and the road intersection connect the extension report to the same proposal | S5, Brief: Solar Farm Extensions Granted |
+
+The [August 17, 2023 agenda reproduction (S2)](https://willcountygazette.com/will-county-board-met-aug-17) identifies the zoning and use-request numbers in Land Use item 2.
+
+In ICC docket 23-0622, paragraph 31 describes a study-proposed change from 12 kV feeder F365 to 34 kV line L12735 and cites Exhibit B page 6. The full PDF was unavailable; the reviewed material was indexed filing text. The cited Exhibit B study page was not available for review.
+
+The filing is a party pleading, so its account of the study and complaint allegations should not be treated as Commission findings. It also does not establish that the connection was completed.
+
+## Dated development and permitting history
+
+| Date | Recorded event | What the record establishes |
+| --- | --- | --- |
+| 2018, year only | July 2023 reporting refers to a 2018 permit that later expired | Historical reporting; the original permit and expiration date remain needed |
+| On or about September 28, 2022 | Paragraph 29 describes Cottage Grove's interconnection application | A party filing's account of an application for 3.42 MW under 22-19568 |
+| On or about March 10, 2023 | Paragraph 30 describes ComEd providing a combined study | The filing's account of a study; the study itself has not been reviewed |
+| June 26, 2023 | Crete agenda includes a solar/BESS hearing notice | A published agenda dated for that meeting |
+| July 16, 2023 | Reporting identifies capacity, Soltage ownership and a planned ComEd purchase | News report describing the project as of July 2023 |
+| July 18, 2023 | Public hearing scheduled | A scheduled hearing, with occurrence and outcome unresolved |
+| August 17, 2023 | Reproduced Board agenda lists the zoning and use requests | Agenda detail; an adopted Board decision has not been established |
+| February 5, 2026 | Committee coverage reports a second 180-day permit extension | Reported March 2, 2026. Secondary reporting of committee action, not a reviewed signed Board decision |
+| August 12, 2026 | Reported extension end | Historical end date; later renewal and current permit status remain unresolved |
+
+The [timeline](timeline.csv) preserves the date precision and source references. A committee action or recommendation and an adopted Board decision are separate milestones. The current record does not establish the signed 2023 decision or the official instrument supporting the reported 2026 extension.
+
+## Unresolved questions and next records needed
+
+| Priority | Next records needed |
+| --- | --- |
+| Current permits | Signed zoning ordinance, Board vote/minutes, permit file, official extension records and any later renewals |
+| Construction, operation and COD | Building permit and construction records, ComEd permission to operate or commissioning records, and an operating inventory tied to 22-19568 |
+| Final technical configuration | Approved site plan and rating schedules for installed solar capacity and AC/DC basis, BESS MW/MWh, the original connection study, final energization records and any accredited capacity record |
+| Ownership and offtake | Current company filings and asset ownership documentation, plus an executed purchase agreement or authoritative disclosure |
+| Digital Realty membership | A project-specific portfolio or procurement disclosure naming Cottage Grove or ComEd project 22-19568 |
+
+I would prioritize the county decision and extension records, then ComEd's current project records. Those documents would help distinguish permitting progress from construction and operation.
+
+The [evidence table](../../data/evidence.csv) lists the support and remaining uncertainty for each finding. Detailed access history is retained in the [source manifest](../../sources/manifest.csv); the [search log](search-log.csv) lists the searches and source-access attempts. Unresolved JSON fields remain `null`, meaning unknown rather than false or zero.

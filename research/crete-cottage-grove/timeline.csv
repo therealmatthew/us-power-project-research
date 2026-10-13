@@ -1,12 +1,11 @@
 date,date_precision,event,source_id,limitation
-2018,year,Permit reported issued in 2018 and later expired,S3,Secondary report supplied; expiration date unknown
+2018,year,Permit reported issued in 2018 and later expired,S3,"July 16, 2023 news report; original permit and expiration date needed"
 2022-09-28,on_or_about,Interconnection application described in paragraph 29,S4,Indexed party pleading; not independently verified application
 2023-03-10,on_or_about,Combined study described in paragraph 30,S4,Indexed party pleading; study not reviewed
 2023-06-26,day,Village agenda includes solar/BESS hearing notice,S1,"Agenda, not decision"
-2023-07-16,day,"News report of capacity, ownership and planned purchaser",S3,Supplied article facts; direct access blocked
+2023-07-16,day,"News report of capacity, ownership and planned purchaser",S3,News report describes ownership and planned purchaser as of July 2023
 2023-07-18,day,Public hearing scheduled,S1,Scheduled only; occurrence/outcome unverified
-2023-08-17,day,County board agenda lists zoning/permit requests,S2,Agenda reproduction; final vote unverified
+2023-08-17,day,County board agenda lists zoning/permit requests,S2,Agenda reference; adopted Board decision unresolved
 2024-08-26,day,Voluntary partial motion dated,S4,Indexed document date; not docket disposition
-2026-02-05,day,Second 180-day extension reportedly granted,S5,Secondary coverage; official record not retrieved
-2026-03-02,day,Committee coverage published,S5,"Publication date, not meeting date"
-2026-08-12,day,Reported extension end,S5,No automatic inference of expiration or later renewal
+2026-02-05,day,Second 180-day extension reportedly granted,S5,"Reported March 2, 2026. Secondary coverage; official record not retrieved"
+2026-08-12,day,Reported extension end,S5,Reported historical end; later renewal and current permit status unresolved

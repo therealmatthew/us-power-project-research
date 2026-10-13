@@ -1,53 +1,35 @@
 # US Power Project Research
 
-A public-record research case study by Matthew Z. Marte tracing
-Crete Cottage Grove Solar 1 in Will County, Illinois across county
-zoning records, company statements, and utility regulatory filings.
+**Matthew Z. Marte | Research work sample | October 13, 2026**
 
-The research connects a consistent parcel identifier to the project's
-2023 zoning application and ComEd interconnection identifier. It records
-proposed capacity, reported ownership, and a subsequent permitting update,
-while leaving unsupported conclusions unresolved.
+I examined Crete Cottage Grove Solar 1 in Will County, Illinois to show how I connect project records and assess what they establish about development progress. This work sample supports my application for a Cleanview Research Analyst role.
 
-**Start with [the case report](research/crete-cottage-grove/report.md).**
+**[Read the case report](research/crete-cottage-grove/report.md).**
 
-## Key findings
+I selected this project because its parcel, zoning case, company name and utility project number provide a way to follow the same proposal across local permitting and utility filings. The case also shows why a permitting milestone should not be treated as an operating milestone.
 
-- Linked zoning case ZC-23-006 to parcel 23-15-15-400-010-0000
-  and Crete Cottage Grove Solar 1, LLC.
-- Identified proposed capacity of 3.42 MW and reported Soltage ownership.
-- Located indexed ICC filing text linking the project to ComEd
-  identifier 22-19568.
-- Located a reported February 2026 permitting extension.
-- Distinguished these findings from unverified current operating status,
-  final BESS configuration, COD, capacity credit, and Digital Realty
-  portfolio membership.
+## Findings
 
-**Review date:** October 13, 2026.
+- The project is associated with parcel **23-15-15-400-010-0000**, zoning case **ZC-23-006**, solar request **S-23-003** and BESS request **S-23-004**.
+- Indexed ICC text connects **Crete Cottage Grove Solar 1, LLC.** to ComEd project **22-19568** and a proposed **3.42 MW** community solar system. The AC/DC basis is unspecified.
+- July 2023 reporting identifies Soltage ownership and ComEd as the planned electricity purchaser. Corporate ownership records and an executed offtake agreement are still needed.
+- February 2026 committee coverage reports a second 180-day permit extension through **August 12, 2026**.
 
-## Repository map
+Current operation, COD, final BESS configuration, capacity credit and Digital Realty portfolio membership remain unresolved. The Digital Realty announcement was a discovery lead, not proof of project membership. Source descriptions and access details are retained in the source manifest.
 
-- `data/projects.json`: curated case data; `null` means not established
-  in this review, not false or zero.
-- `data/evidence.csv`: claims, locators, source classes and evidence limitations.
-- `sources/manifest.csv`: source URLs, access results and original-document custody.
-- `sources/README.md`: source-custody conventions.
-- `sources/originals/`: original documents, ignored by default.
-- `research/crete-cottage-grove/`: report, timeline and actual search log.
-- `tests/test_research.py`: research-data integrity check using only the standard library.
-- `CHECKS.md`: executed research checks and access limitations.
+## Research files
 
-Empty CSV cells mean unavailable/not applicable; see the row's limitation. Source type describes provenance; verification status describes what this review actually accessed. Party pleadings are primary filings but their allegations are not commission findings. Indexed excerpts are explicitly labelled.
+| File | Contents |
+| --- | --- |
+| [Case report](research/crete-cottage-grove/report.md) | Objective, findings, record matching, dated history and next research steps |
+| [Project record](data/projects.json) | Structured project details; `null` means unresolved |
+| [Evidence table](data/evidence.csv) | Findings, supporting evidence, source passages, dates and remaining uncertainty |
+| [Source manifest](sources/manifest.csv) | Source URLs, review descriptions and detailed access records |
+| [Timeline](research/crete-cottage-grove/timeline.csv) | Development and permitting history, with date precision and source references |
+| [Search log](research/crete-cottage-grove/search-log.csv) | Recorded queries, source-access attempts and follow-up leads |
+| [Source notes](sources/README.md) | Source and date conventions |
+| [Research checks](CHECKS.md) | File checks and unresolved source issues |
 
-## Evidence boundaries
+An agenda records a request, while a signed Board decision records an adopted action. Proposed capacity, reported ownership, planned purchases and study-proposed connections remain distinct from installed capacity, documented ownership, executed agreements and completed connections.
 
-See the report and manifest for source-specific access limits. An agenda does not prove a final vote; a planned purchaser does not prove a PPA; a permit extension does not prove operation. The August 12, 2026 reported extension end is historical as of this review. Current status, final BESS, COD, capacity credit and Digital Realty membership are unknown.
-
-The research files can be read directly without installing dependencies.
-
-## Repository
-
-[View the repository](https://github.com/therealmatthew/us-power-project-research).
-
-The case report, structured project record, evidence table, timeline,
-and source manifest document the findings and research limitations.
+The files can be read directly without installing dependencies. Original documents are kept separately and excluded from Git. The [repository](https://github.com/therealmatthew/us-power-project-research) contains the research record; source URLs lead to the publishers' records.

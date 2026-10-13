@@ -1,21 +1,26 @@
-# Research checks and access limits
+# Research review checks
 
-Reviewed October 13, 2026 (Asia/Manila).
+**Review date: October 13, 2026**
 
-## Research-file checks
+I checked the consistency of the research files and the references supporting the case report. These checks assess the record's organization and traceability; they do not establish unresolved project milestones.
 
-- The retained research-data integrity test passes using only the standard library. It checks nulls for unverified fields, project-to-evidence IDs, evidence-to-source links, nonempty claim locators and limitations, absence of invented quotations, and the unverified official extension decision flag.
-- Project JSON, evidence CSV, source manifest, timeline and search log are unchanged from the previous local commit; their file hashes match the pre-edit snapshots.
-- Case findings and citations are preserved. Only the report's closing methodology paragraph was updated to describe the remaining research records.
-- The CSV files parse successfully. Timeline source IDs and search-log source IDs resolve to the source manifest, including rows with multiple sources; empty source IDs remain research leads.
-- Local Markdown links resolve to retained research files. References to external sources and git-ignored originals are distinguished from files held in this checkout.
-- The diff passes whitespace checks. Original documents and local working files remain excluded from Git. Checks were completed locally before publication.
+## File checks
 
-## Access limits and unverified findings
+- Project JSON parses correctly and retains nulls for unresolved fields.
+- The evidence table uses six readable columns. Its findings match the project record's evidence references, and every source reference resolves to the manifest.
+- All supporting CSVs have consistent row widths and readable headings. Timeline and search-log source references resolve, including the row referring to two sources.
+- Recorded source URLs, evidence locators, search dates and queries are preserved. No search-log entries were added; article attribution and the discovery narrative incorporate Matthew's editorial clarifications.
+- Document and publication dates agree with the manifest. The February committee date is separate from the March report publication date.
+- Local Markdown links resolve. The diff passes whitespace checks.
+- Three research integrity checks pass using only the standard library.
+- Original documents and local working files remain excluded from Git.
 
-- Original-document retrieval failed: Village of Crete returned HTTP 403; ICC timed out after network access was granted. No original document bytes are held and source document hashes remain empty.
-- The web tool returned the official agenda's page-indexed text and ICC indexed text. These accesses are distinguished from original-file retrieval in the manifest and report.
-- Yahoo returned HTTP 429; Will County Gazette returned HTTP 403. Their supplied facts remain labelled as not independently retrieved.
-- Official adopted votes, current permits, ownership, operation, COD, BESS configuration, purchase agreement, capacity credit and Digital Realty membership remain unverified.
+## Remaining source issues
 
-These are file-integrity and traceability checks, not independent confirmation of the underlying research claims. No sources were re-fetched during this revision.
+The July 16, 2023 news report describes ownership and the planned purchaser at that time. The county agenda reference and inspected August 8 search excerpt do not establish an adopted Board decision. The full ICC PDF and underlying study page remain unavailable; the connection account rests on indexed filing text.
+
+The older search log described PDF downloads as pending even though a later entry recorded failures. The entries now agree with the final outcomes in the source manifest. No new download or source review was performed for this editorial revision.
+
+Digital Realty's announcement led to investigation of individual projects; Cottage Grove's inclusion in that agreement was not established.
+
+Signed Board decisions, the original interconnection study and current project records are still needed. Current operation, final BESS configuration, COD, capacity credit and Digital Realty portfolio membership remain unresolved.

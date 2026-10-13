@@ -25,7 +25,7 @@
       "voltage_kv": 34,
       "prior_feeder": "F365",
       "prior_voltage_kv": 12,
-      "evidence_scope": "Indexed party pleading citing study; not an as-built connection"
+      "evidence_scope": "Indexed party filing describes a study proposal; completed connection unresolved"
     },
     "permit_extension_report": {
       "committee_date": "2026-02-05",
@@ -41,22 +41,27 @@
     "commercial_operation_date": null,
     "capacity_credit_mw": null,
     "digital_realty_portfolio_membership": null,
-    "evidence_ids": [
-      "E01",
-      "E02",
-      "E03",
-      "E04",
-      "E05",
-      "E06",
-      "E07",
-      "E08",
-      "E09",
-      "E10",
-      "E11",
-      "E12",
-      "E13",
-      "E14"
+    "notes": "Null means unresolved, not false or zero. Reported ownership is not a corporate ownership record. Historical permits and proposed capacity do not establish current operation.",
+    "evidence_findings": [
+      "Project parcel",
+      "Project location",
+      "Requested BESS area",
+      "Project entity in county agenda",
+      "County zoning case",
+      "Solar use request",
+      "BESS use request",
+      "Proposed solar capacity in July reporting",
+      "Reported Soltage ownership",
+      "Planned electricity purchaser",
+      "Earlier permit history",
+      "ComEd project identifier and proposed capacity",
+      "Study-proposed utility connection",
+      "Reported second permit extension"
     ],
-    "notes": "Null means unverified, not false or zero. Historical facts and reported claims do not establish current status."
+    "research_as_of": "2026-10-13",
+    "digital_realty_discovery_lead": {
+      "role": "Digital Realty announcement of a Soltage community solar portfolio prompted individual-project research",
+      "project_membership_established": false
+    }
   }
 ]
