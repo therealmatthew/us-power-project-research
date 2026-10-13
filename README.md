@@ -23,28 +23,27 @@ while leaving unsupported conclusions unresolved.
   final BESS configuration, COD, capacity credit, and Digital Realty
   portfolio membership.
 
-## Planned automation
-
-A future extension will extract PDF text, apply local OCR to scanned
-pages, and identify project references while preserving source and page
-information. This automation has not yet been implemented.
-
 **Review date:** October 13, 2026.
 
 ## Repository map
 
--  `data/projects.json`: curated case data; `null` means not established
+- `data/projects.json`: curated case data; `null` means not established
   in this review, not false or zero.
 - `data/evidence.csv`: claims, locators, source classes and evidence limitations.
 - `sources/manifest.csv`: source URLs, access results and original-document custody.
+- `sources/README.md`: source-custody conventions.
 - `sources/originals/`: original documents, ignored by default.
 - `research/crete-cottage-grove/`: report, timeline and actual search log.
+- `tests/test_research.py`: research-data integrity check using only the standard library.
+- `CHECKS.md`: executed research checks and access limitations.
 
 Empty CSV cells mean unavailable/not applicable; see the row's limitation. Source type describes provenance; verification status describes what this review actually accessed. Party pleadings are primary filings but their allegations are not commission findings. Indexed excerpts are explicitly labelled.
 
 ## Evidence boundaries
 
 See the report and manifest for source-specific access limits. An agenda does not prove a final vote; a planned purchaser does not prove a PPA; a permit extension does not prove operation. The August 12, 2026 reported extension end is historical as of this review. Current status, final BESS, COD, capacity credit and Digital Realty membership are unknown.
+
+The research files can be read directly without installing dependencies.
 
 ## Repository
 

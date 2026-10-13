@@ -45,4 +45,4 @@ No negative finding is implied by a null. This is a bounded review of five suppl
 
 ## Reproducibility
 
-See `data/evidence.csv` for claim-level traceability, `sources/manifest.csv` for access and custody, and `timeline.csv` for dated events. Extraction preserves each physical page independently, including blank pages, with SHA-256 and method. OCR is selective and preserves native text. Heuristics can miss mixed image/text pages; manually inspect flagged and relevant pages. Candidate extraction never updates the curated JSON.
+See `data/evidence.csv` for claim-level traceability, `sources/manifest.csv` for access and custody, `timeline.csv` for dated events, and `search-log.csv` for source-access attempts and research leads. Review page/section locators against the cited source context before changing a claim. Physical PDF pages, printed page labels and exhibit references are distinct; unavailable document hashes remain empty.

@@ -1,4 +1,0 @@
-pypdf>=6.0,<7
-pypdfium2>=4.30,<6
-Pillow>=11,<13
-# OCR additionally requires a separately installed Tesseract executable.

@@ -7,4 +7,4 @@ Document dates, meeting dates and access dates are distinct.
 Place original documents in `originals/`, ignored by git. Retain their original names.
 Do not substitute an HTML error response for a PDF. Hash only actual document bytes.
 Web-indexed text has no local document hash and is not equivalent to a downloaded PDF.
-Extraction outputs belong in ignored `work/`; review references before promoting any claim.
+Review source context and page/section locators before adding or changing a research claim.
