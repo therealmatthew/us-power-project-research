@@ -2,7 +2,7 @@
 
 **Matthew Z. Marte | Research work sample | October 13, 2026**
 
-I examined Crete Cottage Grove Solar 1 in Will County, Illinois to show how I connect project records and assess what they establish about development progress. This work sample supports my application for a Cleanview Research Analyst role.
+I selected this project after researching Digital Realty as part of my stock trading. For this sample, I expanded that research to county zoning records and utility regulatory filings, drawing on the sources highlighted in the job description. Digital Realty’s Soltage announcement provided the starting point, although I did not establish that Cottage Grove belonged to that portfolio.
 
 **[Read the case report](research/crete-cottage-grove/report.md).**
 
@@ -11,7 +11,7 @@ I selected this project because its parcel, zoning case, company name and utilit
 ## Findings
 
 - The project is associated with parcel **23-15-15-400-010-0000**, zoning case **ZC-23-006**, solar request **S-23-003** and BESS request **S-23-004**.
-- Indexed ICC text connects **Crete Cottage Grove Solar 1, LLC.** to ComEd project **22-19568** and a proposed **3.42 MW** community solar system. The AC/DC basis is unspecified.
+- Indexed ICC text connects **Crete Cottage Grove Solar 1, LLC** to ComEd project **22-19568** and a proposed **3.42 MW** community solar system. The AC/DC basis is unspecified.
 - July 2023 reporting identifies Soltage ownership and ComEd as the planned electricity purchaser. Corporate ownership records and an executed offtake agreement are still needed.
 - February 2026 committee coverage reports a second 180-day permit extension through **August 12, 2026**.
 
