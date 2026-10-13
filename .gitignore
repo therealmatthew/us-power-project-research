@@ -1,0 +1,8 @@
+sources/originals/
+work/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+Thumbs.db

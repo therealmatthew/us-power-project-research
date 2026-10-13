@@ -1,0 +1,11 @@
+search_date,method,query_or_url,result,source_id,follow_up
+2026-10-13,web open,https://villageofcrete.org/wp-content/uploads/2023/06/06-26-2023-agenda.pdf,web_page_text_reviewed; local_download_pending,S1,Retrieve original/official records; do not infer current status
+2026-10-13,web open,https://willcountygazette.com/will-county-board-met-aug-17,403 on web open; supplied facts only,S2,Retrieve original/official records; do not infer current status
+2026-10-13,web open,https://www.yahoo.com/news/solar-power-company-makes-application-101500799.html,429 on web open; supplied facts only,S3,Retrieve original/official records; do not infer current status
+2026-10-13,web open,https://www.icc.illinois.gov/docket/P2023-0622/documents/354597/files/621101.pdf,web index text readable; local_download_pending,S4,Retrieve original/official records; do not infer current status
+2026-10-13,web open,https://peotonelocal.com/2026/03/02/meeting-summary-and-briefs-will-county-land-use-development-committee-for-february-5-2026/,web_article_reviewed,S5,Retrieve original/official records; do not infer current status
+2026-10-13,web find,S4: paragraph 29; L12735; paragraph 31,Indexed physical page 15 associates entity with 3.42 MW / 22-19568 and proposed line change,S4,Review original and underlying Exhibit B page 6
+2026-10-13,web find,S5: 180,Solar extension section readable,S5,Retrieve official committee minutes and later county records
+2026-10-13,web search,"site.willcountygazette.com/will-county-board-met-aug-17 ""S-23-003""",Different August 8 committee agenda surfaced; lead only: https://willcountygazette.com/will-county-board-land-use-development-committee-met-aug-8,,Review source before promotion; not final vote evidence
+2026-10-13,web search,"site.yahoo.com/news/solar-power-company-makes-application-101500799 ""Soltage""",No relevant article retrieved; unrelated results excluded,S3,Seek authorized Tribune archive access
+2026-10-13,local urllib download,S1 and S4 URLs,"Initial socket permission denial; network permission granted; retry: Crete HTTP 403, ICC WinError 10060 timeout",S1;S4,No original bytes retained; document hashes remain empty; seek authorized alternate retrieval

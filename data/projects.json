@@ -1,0 +1,62 @@
+[
+  {
+    "project_id": "crete-cottage-grove",
+    "name": "Crete Cottage Grove Solar 1",
+    "entity": "Crete Cottage Grove Solar 1, LLC.",
+    "county": "Will",
+    "state": "Illinois",
+    "pin": "23-15-15-400-010-0000",
+    "location": "NW corner of W. Munz Road and S. Cottage Grove Avenue",
+    "zoning_case": "ZC-23-006",
+    "solar_request": "S-23-003",
+    "bess_request": "S-23-004",
+    "proposed_capacity_mw": 3.42,
+    "capacity_basis": null,
+    "bess_requested_area_acres": 5,
+    "reported_owner_2023": "Soltage",
+    "ownership_report_date": "2023-07-16",
+    "current_owner": null,
+    "planned_electricity_purchaser_reported_2023": "ComEd",
+    "executed_purchase_agreement": null,
+    "comed_project_id": "22-19568",
+    "icc_docket": "23-0622",
+    "study_proposed_connection": {
+      "line": "L12735",
+      "voltage_kv": 34,
+      "prior_feeder": "F365",
+      "prior_voltage_kv": 12,
+      "evidence_scope": "Indexed party pleading citing study; not an as-built connection"
+    },
+    "permit_extension_report": {
+      "committee_date": "2026-02-05",
+      "publication_date": "2026-03-02",
+      "extension_number": 2,
+      "days": 180,
+      "reported_through": "2026-08-12",
+      "official_decision_verified": false
+    },
+    "current_operation": null,
+    "current_permit_status": null,
+    "final_bess_configuration": null,
+    "commercial_operation_date": null,
+    "capacity_credit_mw": null,
+    "digital_realty_portfolio_membership": null,
+    "evidence_ids": [
+      "E01",
+      "E02",
+      "E03",
+      "E04",
+      "E05",
+      "E06",
+      "E07",
+      "E08",
+      "E09",
+      "E10",
+      "E11",
+      "E12",
+      "E13",
+      "E14"
+    ],
+    "notes": "Null means unverified, not false or zero. Historical facts and reported claims do not establish current status."
+  }
+]
