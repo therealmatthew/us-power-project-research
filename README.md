@@ -6,8 +6,6 @@ I selected Crete Cottage Grove Solar 1 in Will County, Illinois after researchin
 
 **[Read the case report](research/crete-cottage-grove/report.md).**
 
-I selected this project because its parcel, zoning case, company name and utility project number provide a way to follow the same proposal across local permitting and utility filings. The case also shows why a permitting milestone should not be treated as an operating milestone.
-
 ## Findings
 
 - The project is associated with parcel **23-15-15-400-010-0000**, zoning case **ZC-23-006**, solar request **S-23-003** and BESS request **S-23-004**.
@@ -15,7 +13,7 @@ I selected this project because its parcel, zoning case, company name and utilit
 - July 2023 reporting identifies Soltage ownership and ComEd as the planned electricity purchaser. Corporate ownership records and an executed offtake agreement are still needed.
 - February 2026 committee coverage reports a second 180-day permit extension through **August 12, 2026**.
 
-Current operation, COD, final BESS configuration, capacity credit and Digital Realty portfolio membership remain unresolved. The Digital Realty announcement was a discovery lead, not proof of project membership. Source descriptions and access details are retained in the source manifest.
+Current operation, COD, final BESS configuration, capacity credit and Digital Realty portfolio membership remain unresolved. Source descriptions and access details are retained in the source manifest.
 
 ## Research files
 
