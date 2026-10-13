@@ -2,7 +2,7 @@
 
 **Matthew Z. Marte | Research work sample | October 13, 2026**
 
-I selected Crete Cottage Grove Solar 1 in Will County, Illinois after researching Digital Realty as part of my stock trading.. For this sample, I expanded that research to county zoning records and utility regulatory filings, drawing on the sources highlighted in the job description. Digital Realty’s Soltage announcement provided the starting point, although I did not establish that Cottage Grove belonged to that portfolio.
+I selected Crete Cottage Grove Solar 1 in Will County, Illinois after researching Digital Realty as part of my stock trading. For this sample, I expanded that research to county zoning records and utility regulatory filings, drawing on the sources highlighted in the job description. Digital Realty’s Soltage announcement provided the starting point, although I did not establish that Cottage Grove belonged to that portfolio.
 
 **[Read the case report](research/crete-cottage-grove/report.md).**
 
