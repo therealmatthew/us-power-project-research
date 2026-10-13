@@ -12,7 +12,6 @@ I checked the consistency of the research files and the references supporting th
 - Recorded source URLs, evidence locators, search dates and queries are preserved. No search-log entries were added; article attribution and the discovery narrative incorporate Matthew's editorial clarifications.
 - Document and publication dates agree with the manifest. The February committee date is separate from the March report publication date.
 - Local Markdown links resolve. The diff passes whitespace checks.
-- Three research integrity checks pass using only the standard library.
 - Original documents and local working files remain excluded from Git.
 
 ## Remaining source issues
