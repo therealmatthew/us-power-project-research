@@ -4,9 +4,8 @@
 
 ## Research objective and project selection
 
-I examined this project to determine which records refer to the same proposed facility, what they show about its development, and which milestones still need confirmation. I selected Crete Cottage Grove Solar 1 because the parcel number, zoning case, company name and ComEd project number allow the proposal to be followed across local permitting and utility filings.
-
-I began with Digital Realty's announcement of a Soltage community solar portfolio, then investigated individual projects. I did not establish that Cottage Grove was included in that agreement.
+I selected Crete Cottage Grove Solar 1 after researching Digital Realty as part of my stock trading. For this sample, I expanded that research to county zoning records and utility regulatory filings, drawing on the sources highlighted in the job description.
+I used the parcel number, zoning case, company name and ComEd project number to connect records for the same proposal and assess its development progress. Digital Realty’s Soltage announcement provided the starting point, although I did not establish that Cottage Grove belonged to that portfolio.
 
 ## Project summary and findings
 
